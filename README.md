@@ -2,5 +2,5 @@
 
 ### Projects in this repo include:
 
- - Sudoku Solver Agent
+ - AIND-Sudoku: Modified Sudoku Solving Agent.
 
